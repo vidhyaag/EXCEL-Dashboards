@@ -19,9 +19,9 @@ To use the sales dashboard, follow these steps:
 
 The sales dashboard includes the following features:
 
-- **Sales by Region:** A bar chart that displays total sales by region.
-- **Sales by Product:** A pie chart that shows the percentage of sales for each product.
-- **Sales by Month:** A line chart that displays monthly sales trends.
+- **Total Revenue based on payment:** A bar chart that displays total sales by region.
+- **Quater wise sales:** A pie chart that shows the percentage of sales for each product.
+- **Total revenue based on shipping & co:** A line chart that displays monthly sales trends.
 - **Top Salespeople:** A table that lists the top salespeople by total sales.
 
 ## Usage
